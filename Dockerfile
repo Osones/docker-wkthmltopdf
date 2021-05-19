@@ -1,6 +1,6 @@
 FROM ubuntu:18.04
 
-LABEL maintainer="romain.guichard@alterway.fr"
+LABEL maintainer="herve.leclerc@alterway.fr"
 
 ENV PKGVER 0.12.4-1
 ENV DEBIAN_FRONTEND noninteractive
